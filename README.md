@@ -1,3 +1,3 @@
 # Ecommerce-Supply-Chain-Analysis-Dashboard-Creation-using-Excel
-![Excel Dashboard](Excel%20Dashboard.png)
+![Excel Dashboard](Excel_Dashboard.png)
 *Figure : Excel Dashboard*
