@@ -2,7 +2,6 @@
 ![Excel Dashboard](Excel_Dashboard.png)
 *Figure : Excel Dashboard*
 
-# Ecommerce Supply Chain Analysis Dashboard Creation using Excel
 
 ## Project Overview
 
