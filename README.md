@@ -74,7 +74,7 @@ This analysis provided insights that can:
 - `README.md`: Project documentation.
 - `DataCoSupplyChainDataset.csv`: Supply chain Dataset used for analysis.
 - `TokenizedAccessLogs.csv`: Tokenized Access Logs Dataset used for analysis.
-- `Excel E-Commerce Dashboard.xlsx`: Excel file containing the final interactive dashboard with key visualizations and analyses used in the dashboard.
+- `Excel_Final_Dashboard.xlsx`: Excel file containing the final interactive dashboard with key visualizations and analyses used in the dashboard.
 - `Excel-Part1.xlsx`: Excel file containing all charts, analyses, and calculations used for data exploration and insights.  
 - `Excel_Project_Documentation`: Detail Documentation of each analyses performed.
 - `Data_Information`: Information about the datasets, including field descriptions.
