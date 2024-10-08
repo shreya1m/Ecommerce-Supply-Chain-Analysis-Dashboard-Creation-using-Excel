@@ -71,11 +71,15 @@ This analysis provided insights that can:
 
 ## Files in the Repository
 
-- `DataCoSupplyChainDataset.csv`: Supply chain data used for analysis.
-- `Ecommerce-Supply-Chain-Dashboard.xlsx`: Interactive Excel dashboard created for this project.
 - `README.md`: Project documentation.
+- `DataCoSupplyChainDataset.csv`: Supply chain Dataset used for analysis.
+- `TokenizedAccessLogs.csv`: Tokenized Access Logs Dataset used for analysis.
+- `Excel E-Commerce Dashboard.xlsx`: Excel file containing the final interactive dashboard with key visualizations and analyses used in the dashboard.
+- `Excel-Part1.xlsx`: Excel file containing all charts, analyses, and calculations used for data exploration and insights.  
 - `Excel_Project_Documentation`: Detail Documentation of each analyses performed.
-- `Data_Information`: Information about the dataset, including field descriptions.
+- `Data_Information`: Information about the datasets, including field descriptions.
+- `Excel_Dashboard.png`: Final Excel Dashboard Image.
+
 ## Future Work
 
 - Expand the dashboard to include predictive models for demand forecasting.
